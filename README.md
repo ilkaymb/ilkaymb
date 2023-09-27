@@ -1,7 +1,9 @@
 ### Hi there 👋
-
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ilkaymb&theme=radical" />
+<div style="display:flex;">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ilkaymb&theme=radical" />
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilkaymb&layout=compact&langs_count=8&card_width=320&theme=radical" />
+
+</div>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
