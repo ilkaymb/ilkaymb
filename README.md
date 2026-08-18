@@ -9,8 +9,16 @@ Built customer-facing features at Insider, a real-time voice AI agent at Algoria
 <a href="https://www.linkedin.com/in/ilkaymb"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <img src="https://img.shields.io/github/followers/ilkaymb?style=for-the-badge&label=Followers&color=181717" />
 
+<br><br>
+
+<img src="https://img.shields.io/badge/📍_Istanbul-f5f5f5?style=flat-square&color=333333" />
+<img src="https://img.shields.io/badge/3%2B_years_production-f5f5f5?style=flat-square&color=333333" />
+<img src="https://img.shields.io/badge/Open_to_full--time_roles-f5f5f5?style=flat-square&color=2e7d32&labelColor=333333" />
+
 </div>
 
+<br>
+<div align="center"><img src="assets/divider.svg" width="480" /></div>
 <br>
 
 <div align="center">
@@ -27,8 +35,14 @@ Built customer-facing features at Insider, a real-time voice AI agent at Algoria
 </div>
 
 <br>
+<div align="center"><img src="assets/divider.svg" width="480" /></div>
+<br>
+
+<div align="center">
 
 ## Side projects
+
+</div>
 
 <table>
 <tr>
