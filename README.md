@@ -3,7 +3,7 @@
 # Ilkay Bora
 
 Full-stack developer in Istanbul, 3+ years shipping production code.
-Built customer-facing features at Insider, a real-time voice AI agent at Algoria (Gemini Live API + Asterisk), and four independent products on the side — strongest on the frontend, comfortable end to end.
+Built customer-facing features at Insider, a real-time voice AI agent at Algoria (Gemini Live API + Asterisk), and four independent products on the side. Strongest on the frontend, comfortable end to end.
 
 <a href="https://ilkaybora.com"><img src="https://img.shields.io/badge/ilkaybora.com-111111?style=for-the-badge" /></a>
 <a href="https://www.linkedin.com/in/ilkaymb"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -49,7 +49,7 @@ Built customer-facing features at Insider, a real-time voice AI agent at Algoria
 <td width="50%" valign="top">
 <a href="https://linknow-six.vercel.app"><img src="assets/linknown.png" width="100%" /></a>
 <h3><a href="https://linknow-six.vercel.app">LINKNOWN</a></h3>
-Link shortening and QR codes with privacy-safe click analytics — unique visitors from a one-way hash, never a stored IP, plus bot-filtered redirects and link-in-bio pages.
+Link shortening and QR codes with privacy-safe click analytics: unique visitors from a one-way hash, never a stored IP, plus bot-filtered redirects and link-in-bio pages.
 </td>
 <td width="50%" valign="top">
 <a href="https://next-reach.vercel.app"><img src="assets/convoscore.png" width="100%" /></a>
@@ -61,16 +61,16 @@ Replaces the static contact form with a chat that asks the right questions and s
 <td width="50%" valign="top">
 <a href="https://timo-ecru.vercel.app"><img src="assets/nivorai.png" width="100%" /></a>
 <h3><a href="https://timo-ecru.vercel.app">Nivorai</a></h3>
-Self-hosted productivity suite I run for myself — Kanban, calendar, finance, fitness, mood, and habit tracking in one dashboard.
+Self-hosted productivity suite I run for myself: Kanban, calendar, finance, fitness, mood, and habit tracking in one dashboard.
 </td>
 <td width="50%" valign="top">
 <a href="https://ask-olsun-love-app.vercel.app"><img src="assets/quizcupid.png" width="100%" /></a>
 <h3><a href="https://ask-olsun-love-app.vercel.app">QuizCupid</a></h3>
-Free, bilingual (TR/EN) love tests and couple games, no signup — answer a few questions, get a shareable result card.
+Free, bilingual (TR/EN) love tests and couple games, no signup required. Answer a few questions, get a shareable result card.
 </td>
 </tr>
 </table>
 
 <div align="center">
-<sub>Repos are private — the links above go to the live apps.</sub>
+<sub>Repos are private, the links above go to the live apps.</sub>
 </div>
