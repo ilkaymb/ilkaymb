@@ -2,7 +2,7 @@
 
 # Ilkay Bora
 
-Full-stack developer in Istanbul, 3+ years shipping production code.
+Full-stack developer, 3+ years shipping production code.
 Built customer-facing features at Insider, a real-time voice AI agent at Algoria (Gemini Live API + Asterisk), and four independent products on the side. Strongest on the frontend, comfortable end to end.
 
 <a href="https://ilkaybora.com"><img src="https://img.shields.io/badge/ilkaybora.com-111111?style=for-the-badge" /></a>
@@ -11,26 +11,8 @@ Built customer-facing features at Insider, a real-time voice AI agent at Algoria
 
 <br><br>
 
-<img src="https://img.shields.io/badge/📍_Istanbul-f5f5f5?style=flat-square&color=333333" />
 <img src="https://img.shields.io/badge/3%2B_years_production-f5f5f5?style=flat-square&color=333333" />
 <img src="https://img.shields.io/badge/Open_to_full--time_roles-f5f5f5?style=flat-square&color=2e7d32&labelColor=333333" />
-
-</div>
-
-<br>
-<div align="center"><img src="assets/divider.svg" width="480" /></div>
-<br>
-
-<div align="center">
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 </div>
 
@@ -70,6 +52,25 @@ Free, bilingual (TR/EN) love tests and couple games, no signup required. Answer 
 </td>
 </tr>
 </table>
+
+<br>
+<div align="center"><img src="assets/divider.svg" width="480" /></div>
+<br>
+
+<div align="center">
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+</div>
+
+<br>
 
 <div align="center">
 <sub>Repos are private, the links above go to the live apps.</sub>
