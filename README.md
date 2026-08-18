@@ -29,25 +29,25 @@ Built customer-facing features at Insider, a real-time voice AI agent at Algoria
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://linknow-six.vercel.app"><img src="assets/linknown.png" width="100%" /></a>
-<h3><a href="https://linknow-six.vercel.app">LINKNOWN</a></h3>
+<a href="https://www.linknown.com"><img src="assets/linknown.png" width="100%" /></a>
+<h3><a href="https://www.linknown.com">LINKNOWN</a></h3>
 Link shortening and QR codes with privacy-safe click analytics: unique visitors from a one-way hash, never a stored IP, plus bot-filtered redirects and link-in-bio pages.
 </td>
 <td width="50%" valign="top">
-<a href="https://next-reach.vercel.app"><img src="assets/convoscore.png" width="100%" /></a>
-<h3><a href="https://next-reach.vercel.app">ConvoScore</a></h3>
+<a href="https://www.convoscore.com"><img src="assets/convoscore.png" width="100%" /></a>
+<h3><a href="https://www.convoscore.com">ConvoScore</a></h3>
 Replaces the static contact form with a chat that asks the right questions and scores the lead while the conversation is still happening.
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://timo-ecru.vercel.app"><img src="assets/nivorai.png" width="100%" /></a>
-<h3><a href="https://timo-ecru.vercel.app">Nivorai</a></h3>
+<a href="https://nivorai.vercel.app"><img src="assets/nivorai.png" width="100%" /></a>
+<h3><a href="https://nivorai.vercel.app">Nivorai</a></h3>
 Self-hosted productivity suite I run for myself: Kanban, calendar, finance, fitness, mood, and habit tracking in one dashboard.
 </td>
 <td width="50%" valign="top">
-<a href="https://ask-olsun-love-app.vercel.app"><img src="assets/quizcupid.png" width="100%" /></a>
-<h3><a href="https://ask-olsun-love-app.vercel.app">QuizCupid</a></h3>
+<a href="https://quizcupid.net"><img src="assets/quizcupid.png" width="100%" /></a>
+<h3><a href="https://quizcupid.net">QuizCupid</a></h3>
 Free, bilingual (TR/EN) love tests and couple games, no signup required. Answer a few questions, get a shareable result card.
 </td>
 </tr>
