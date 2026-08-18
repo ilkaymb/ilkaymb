@@ -1,11 +1,13 @@
 <div align="center">
 
-# Ilkay Mehmet Bora
+# Ilkay Bora
 
-Building small, focused products end to end — mostly Next.js/TypeScript on the frontend, Node/Prisma/Postgres behind it.
+Full-stack developer in Istanbul, 3+ years shipping production code.
+Built customer-facing features at Insider, a real-time voice AI agent at Algoria (Gemini Live API + Asterisk), and four independent products on the side — strongest on the frontend, comfortable end to end.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ilkaybora.com-111111?style=for-the-badge)](https://ilkaybora.com)
-[![Followers](https://img.shields.io/github/followers/ilkaymb?style=for-the-badge&label=Followers&color=181717)](https://github.com/ilkaymb?tab=followers)
+<a href="https://ilkaybora.com"><img src="https://img.shields.io/badge/ilkaybora.com-111111?style=for-the-badge" /></a>
+<a href="https://www.linkedin.com/in/ilkaymb"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<img src="https://img.shields.io/github/followers/ilkaymb?style=for-the-badge&label=Followers&color=181717" />
 
 </div>
 
@@ -26,43 +28,35 @@ Building small, focused products end to end — mostly Next.js/TypeScript on the
 
 <br>
 
-## Currently shipping
+## Side projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/ilkaymb/LINKNOWN"><img src="assets/linknown.png" width="100%" /></a>
-<h3><a href="https://github.com/ilkaymb/LINKNOWN">LINKNOWN</a></h3>
-Shorten links, make QR codes, see who's actually clicking. Password-protected links and link-in-bio pages included.
-<br><br>
-<a href="https://linknow-six.vercel.app">Live</a> · <a href="https://github.com/ilkaymb/LINKNOWN">Code</a>
+<a href="https://linknow-six.vercel.app"><img src="assets/linknown.png" width="100%" /></a>
+<h3><a href="https://linknow-six.vercel.app">LINKNOWN</a></h3>
+Link shortening and QR codes with privacy-safe click analytics — unique visitors from a one-way hash, never a stored IP, plus bot-filtered redirects and link-in-bio pages.
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/ilkaymb/convoscore"><img src="assets/convoscore.png" width="100%" /></a>
-<h3><a href="https://github.com/ilkaymb/convoscore">ConvoScore</a></h3>
-Turns a boring contact form into a chat that actually qualifies your leads, scoring them as the conversation happens.
-<br><br>
-<a href="https://next-reach.vercel.app">Live</a> · <a href="https://github.com/ilkaymb/convoscore">Code</a>
+<a href="https://next-reach.vercel.app"><img src="assets/convoscore.png" width="100%" /></a>
+<h3><a href="https://next-reach.vercel.app">ConvoScore</a></h3>
+Replaces the static contact form with a chat that asks the right questions and scores the lead while the conversation is still happening.
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/ilkaymb/nivorai"><img src="assets/nivorai.png" width="100%" /></a>
-<h3><a href="https://github.com/ilkaymb/nivorai">Nivorai</a></h3>
-A self-hosted dashboard I built for myself: tasks, calendar, money, workouts, habits, notes, all in one place.
-<br><br>
-<a href="https://timo-ecru.vercel.app">Live</a> · <a href="https://github.com/ilkaymb/nivorai">Code</a>
+<a href="https://timo-ecru.vercel.app"><img src="assets/nivorai.png" width="100%" /></a>
+<h3><a href="https://timo-ecru.vercel.app">Nivorai</a></h3>
+Self-hosted productivity suite I run for myself — Kanban, calendar, finance, fitness, mood, and habit tracking in one dashboard.
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/ilkaymb/quizcupid"><img src="assets/quizcupid.png" width="100%" /></a>
-<h3><a href="https://github.com/ilkaymb/quizcupid">QuizCupid</a></h3>
-Quick love & relationship quizzes with shareable result cards, in Turkish and English.
-<br><br>
-<a href="https://ask-olsun-love-app.vercel.app">Live</a> · <a href="https://github.com/ilkaymb/quizcupid">Code</a>
+<a href="https://ask-olsun-love-app.vercel.app"><img src="assets/quizcupid.png" width="100%" /></a>
+<h3><a href="https://ask-olsun-love-app.vercel.app">QuizCupid</a></h3>
+Free, bilingual (TR/EN) love tests and couple games, no signup — answer a few questions, get a shareable result card.
 </td>
 </tr>
 </table>
 
 <div align="center">
-<sub>Portfolio and everything else: <a href="https://ilkaybora.com">ilkaybora.com</a></sub>
+<sub>Repos are private — the links above go to the live apps.</sub>
 </div>
