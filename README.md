@@ -6,7 +6,7 @@ Full-stack developer, 3+ years shipping production code.
 Built customer-facing features at Insider, a real-time voice AI agent at Algoria (Gemini Live API + Asterisk), and four independent products on the side. Strongest on the frontend, comfortable end to end.
 
 <a href="https://ilkaybora.com"><img src="https://img.shields.io/badge/ilkaybora.com-111111?style=for-the-badge" /></a>
-<a href="https://www.linkedin.com/in/ilkaymb"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/ilkaymbora"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <img src="https://img.shields.io/github/followers/ilkaymb?style=for-the-badge&label=Followers&color=181717" />
 
 <br><br>
